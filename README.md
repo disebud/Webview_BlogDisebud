@@ -1,6 +1,6 @@
 ## WebView Blogger Disebud
 
-**Challenge BBPLK BEKASI menggunakan JAVA **
+**Challenge BBPLK BEKASI menggunakan JAVA**
 
 Bermain dengan Webview . Blogspot Sendiri (http://dhi-dix.blogspot.com/)
 
